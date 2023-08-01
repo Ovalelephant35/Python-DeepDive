@@ -36,10 +36,7 @@ Python Complete is a comprehensive repository for learning and exploring the Pyt
 - Error handling and exceptions
 - Generators and iterators
 - Regular expressions
-- Multithreading and multiprocessing
-- Database connectivity
 
-## Project
 
 ## Contributing
 
